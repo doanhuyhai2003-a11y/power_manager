@@ -1,0 +1,7 @@
+===== BAO CAO TONG KET =====
+Tong thoi gian mo phong: 300 phut (5.0 gio)
+Steps: 50
+Energy: 9110.00 Wh
+Mode changes: 20
+Warnings: 3
+Max device: maygiday (2) 2000.0W

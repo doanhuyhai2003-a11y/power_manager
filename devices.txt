@@ -1,0 +1,3 @@
+{"id":"1","type":"quat","consume":300.0,"priority":1,"essential":0,"status":"off"}
+{"id":"2","type":"maygiday","consume":2000.0,"priority":4,"essential":0,"status":"off"}
+{"id":"3","type":"human","consume":2000.0,"priority":1,"essential":0,"status":"off"}
